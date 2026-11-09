@@ -14,11 +14,6 @@
   // Nav shadow, spotlight, reveal
   var nav = $('#nav');
   window.addEventListener('scroll', function () { nav.classList.toggle('scrolled', window.scrollY > 8); }, { passive: true });
-  if (!matchMedia('(prefers-reduced-motion: reduce)').matches) {
-    window.addEventListener('pointermove', function (e) {
-      root.style.setProperty('--mx', e.clientX + 'px'); root.style.setProperty('--my', e.clientY + 'px');
-    }, { passive: true });
-  }
   root.classList.add('js');
   if ('IntersectionObserver' in window) {
     var io = new IntersectionObserver(function (es) {

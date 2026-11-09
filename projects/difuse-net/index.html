@@ -17,7 +17,7 @@
 <link rel="stylesheet" href="../project.css">
 </head>
 <body>
-<div class="bg" aria-hidden="true"><span class="blob b1"></span><span class="blob b2"></span><div class="spot"></div></div>
+<div class="bg" aria-hidden="true"><span class="blob b1"></span><span class="blob b2"></span><div class="spot"></div><canvas id="net"></canvas></div>
 <header class="nav" id="nav">
   <a class="brand" href="../../" aria-label="Kunal Swami, home">KS<span>.</span></a>
   <a class="back" href="../../#publications">← All publications</a>
@@ -45,5 +45,6 @@
 <footer class="pp-foot"><span>© <span id="y"></span> Kunal Swami. Figures and results are from the paper.</span><a href="../../#publications">← Back to publications</a></footer>
 <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
 <script src="../project.js"></script>
+<script src="../../net.js"></script>
 </body>
 </html>

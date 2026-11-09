@@ -30,7 +30,7 @@ window.SITE = {
    "id": "C.17",
    "authors": "Kunal Swami, Aditya Deshmukh, Abir Das",
    "title": "CUES: Causal Understanding of Events in Dyadic Interaction via Dialog-and-Vision Signals",
-   "url": null,
+   "url": "https://openreview.net/pdf?id=TfjlNjtzJC",
    "venue": "European Conference on Computer Vision (ECCV) Workshops 2026",
    "extras": [
     "Winner (1st Place): ChaLearn UDIVA-HHOI Challenge (Track 5: Multimodal Exocentric Causal Event Grounding), CONTEXTUS Workshop",

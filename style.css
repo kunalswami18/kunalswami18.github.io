@@ -209,3 +209,10 @@ footer p { margin: 0; }
 
 #newsMore { margin-top: 24px; }
 .badge svg { flex: none; }
+
+/* cursor-reactive layers */
+#net { position: absolute; inset: 0; width: 100%; height: 100%; opacity: .7; }
+.spot { position: absolute; inset: 0; background: radial-gradient(520px circle at var(--mx, 70%) var(--my, 30%), color-mix(in srgb, var(--accent) 16%, transparent), transparent 62%); }
+.portrait { perspective: 900px; }
+.portrait .tilt { width: 100%; height: 100%; transform-style: preserve-3d; transition: transform .25s ease-out; will-change: transform; }
+@media (prefers-reduced-motion: reduce) { #net, .spot { display: none; } }

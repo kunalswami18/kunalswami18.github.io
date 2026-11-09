@@ -266,7 +266,7 @@ window.SITE = {
  ],
  "experience": [
   {
-   "org": "Samsung R&D Institute India Bangalore",
+   "org": "Samsung Research India Bangalore",
    "url": "https://research.samsung.com/sri-b",
    "roles": [
     {
@@ -357,7 +357,7 @@ window.SITE = {
   },
   {
    "title": "Influential Paper Award",
-   "org": "Samsung R&D Institute India Bangalore",
+   "org": "Samsung Research India Bangalore",
    "date": "Feb 2026",
    "text": [
     "Recognized during the Samsung Annual Day ceremony for authoring high-impact research published within the last two years that secured major conference honors and significant citation growth."
@@ -365,7 +365,7 @@ window.SITE = {
   },
   {
    "title": "Eminent Author Award",
-   "org": "Samsung R&D Institute India Bangalore",
+   "org": "Samsung Research India Bangalore",
    "date": "Feb 2026",
    "text": [
     "Honored at the Samsung Annual Day for research excellence and high productivity, specifically for maintaining a superior volume of first-author publications in premier AI and Computer Vision venues."
@@ -373,7 +373,7 @@ window.SITE = {
   },
   {
    "title": "Samsung Excellence Award - Team Awesome",
-   "org": "Samsung R&D Institute India Bangalore",
+   "org": "Samsung Research India Bangalore",
    "date": "Jan 2026",
    "text": [
     "Recognized for delivering the \"Best Visual Experience\" on the Galaxy S26 Camera flagship through the development of Generative AI solutions, including mask-guided generative inpainting and instruction-based image editing."
@@ -389,7 +389,7 @@ window.SITE = {
   },
   {
    "title": "Samsung Excellence Award - Super Tech",
-   "org": "Samsung R&D Institute India Bangalore",
+   "org": "Samsung Research India Bangalore",
    "date": "Oct 2025",
    "text": [
     "Awarded the \"Super Tech\" honor for research excellence in the organization, specifically for securing the Best Paper Award in Q3 2025."
@@ -413,7 +413,7 @@ window.SITE = {
   },
   {
    "title": "New Valley Project of the Year (R&D) - S24 Project",
-   "org": "Samsung R&D Institute India Bangalore",
+   "org": "Samsung Research India Bangalore",
    "date": "Feb 2024",
    "text": [
     "Honored for pioneering development of world-class Galaxy AI features for the S24 series, delivering high-impact generative solutions that directly enhanced the daily user experience for millions of consumers."
@@ -421,7 +421,7 @@ window.SITE = {
   },
   {
    "title": "Samsung Excellence Award - Team Awesome",
-   "org": "Samsung R&D Institute India Bangalore",
+   "org": "Samsung Research India Bangalore",
    "date": "Oct 2023",
    "text": [
     "\"Team Awesome\" award for focused and dedicated efforts towards quickly developing and showcasing Visual Generative AI solution demos."
@@ -437,7 +437,7 @@ window.SITE = {
   },
   {
    "title": "Samsung Excellence Award - Super Tech Award",
-   "org": "Samsung R&D Institute India Bangalore",
+   "org": "Samsung Research India Bangalore",
    "date": "Apr 2023",
    "text": [
     "\"Super Tech\" award for leading a 3 member team that secured 3rd rank in the Mobile Intelligent Photography and Imaging (MIPI) Workshop’s Depth Completion challenge in CVPR 2023."
@@ -453,7 +453,7 @@ window.SITE = {
   },
   {
    "title": "New Valley Project of the Year (R&D) - S23 Project",
-   "org": "Samsung R&D Institute India Bangalore",
+   "org": "Samsung Research India Bangalore",
    "date": "Mar 2023",
    "text": [
     "New Valley Project of the Year (R&D) - S23 Project. Received this award for contributions to Depth Estimation solution that enables high quality Portrait mode in Samsung Galaxy S23 series smartphones."
@@ -461,7 +461,7 @@ window.SITE = {
   },
   {
    "title": "Best Project Award",
-   "org": "Samsung R&D Institute India Bangalore",
+   "org": "Samsung Research India Bangalore",
    "date": "Dec 2022",
    "text": [
     "Best project award for \"Dual-Pixel based Depth Estimation\" solution contribution to Selfie Portrait mode feature in Samsung Galaxy S24 smartphone."
@@ -469,7 +469,7 @@ window.SITE = {
   },
   {
    "title": "Samsung Excellence Award",
-   "org": "Samsung R&D Institute India Bangalore",
+   "org": "Samsung Research India Bangalore",
    "date": "Oct 2022",
    "text": [
     "Award for technical excellence in research to development for the project \"Dual-Pixel based Depth Estimation\"."
@@ -477,7 +477,7 @@ window.SITE = {
   },
   {
    "title": "Best Project Award",
-   "org": "Samsung R&D Institute India Bangalore",
+   "org": "Samsung Research India Bangalore",
    "date": "Sep 2021",
    "text": [
     "Best project award for \"depth estimation\" solution contribution to Selfie Portrait mode feature in Samsung smartphones."
@@ -493,7 +493,7 @@ window.SITE = {
   },
   {
    "title": "Group Technical Paper Champion",
-   "org": "Samsung R&D Institute India Bangalore",
+   "org": "Samsung Research India Bangalore",
    "date": "Oct 2020",
    "text": [
     "Recognized as \"Technical Paper Champion\" for driving paper writing and submission activities at Vision Research Group, Samsung Research India Bangalore."
@@ -501,7 +501,7 @@ window.SITE = {
   },
   {
    "title": "Samsung Citizen Award",
-   "org": "Samsung R&D Institute India Bangalore",
+   "org": "Samsung Research India Bangalore",
    "date": "Oct 2020",
    "text": [
     "Award for contribution and excellence in work, extraordinary commitment, leveraging and development of talent, extension of support and achievements beyond functional scope and process improvement."
@@ -509,7 +509,7 @@ window.SITE = {
   },
   {
    "title": "Samsung Citizen Award",
-   "org": "Samsung R&D Institute India Bangalore",
+   "org": "Samsung Research India Bangalore",
    "date": "Aug 2020",
    "text": [
     "Excellence award conferred to a group of people for their contributions to \"Galaxy S20 First Time Solutions\"."
@@ -517,7 +517,7 @@ window.SITE = {
   },
   {
    "title": "Samsung Citizen Award",
-   "org": "Samsung R&D Institute India Bangalore",
+   "org": "Samsung Research India Bangalore",
    "date": "Feb 2020",
    "text": [
     "Award for technical excellence in research to development."
@@ -525,7 +525,7 @@ window.SITE = {
   },
   {
    "title": "Samsung Citizen Award",
-   "org": "Samsung R&D Institute India Bangalore",
+   "org": "Samsung Research India Bangalore",
    "date": "Jan 2019",
    "text": [
     "Award for technical excellence in research to development."
@@ -567,7 +567,7 @@ window.SITE = {
   },
   {
    "title": "Employee of the Month",
-   "org": "Samsung R&D Institute India Bangalore",
+   "org": "Samsung Research India Bangalore",
    "date": "Jun 2016",
    "text": [
     "Award for excellent efforts in research to development and publication."
@@ -575,7 +575,7 @@ window.SITE = {
   },
   {
    "title": "Employee of the Month",
-   "org": "Samsung R&D Institute India Bangalore",
+   "org": "Samsung Research India Bangalore",
    "date": "Jul 2015",
    "text": [
     "Award for excellent efforts in research to development and publication."
@@ -695,8 +695,12 @@ window.SITE = {
    "US patent granted (US11790228B2). Received the Samsung <b>Team Awesome</b> award for Visual Generative AI demos."
   ],
   [
-   "2023",
+   "Jun 2023",
    "<b>Adjust Your Focus</b> accepted to CVIP 2023."
+  ],
+  [
+   "Jun 2023",
+   "MIPI 2023 RGB+ToF depth completion challenge report published at the CVPR 2023 Workshops, with our team's solution."
   ],
   [
    "Jun 2023",
@@ -709,6 +713,122 @@ window.SITE = {
   [
    "Mar 2023",
    "<b>3rd place</b> in the CVPR 2023 MIPI Workshop RGB+ToF Depth Completion Challenge. Won <b>New Valley Project of the Year (R&D)</b> for the Galaxy S23 Portrait mode depth solution."
+  ],
+  [
+   "Mar 2023",
+   "Became <b>Senior Chief Engineer</b> at Samsung Research India Bangalore, leading the Visual Generative AI team."
+  ],
+  [
+   "Dec 2022",
+   "<b>Best Project Award</b> for the Dual-Pixel depth estimation solution behind Selfie Portrait mode."
+  ],
+  [
+   "Oct 2022",
+   "Samsung <b>Excellence Award</b> for technical excellence in research to development: Dual-Pixel based depth estimation."
+  ],
+  [
+   "2022",
+   "<b>Do What You Can, With What You Have</b> (scale-aware monocular depth estimation without real-world labels) accepted to the CVPR 2022 Workshops (NTIRE)."
+  ],
+  [
+   "Sep 2021",
+   "<b>Best Project Award</b> for the depth estimation solution in Selfie Portrait mode."
+  ],
+  [
+   "Nov 2020",
+   "<b>Top 3 Most Viewed Paper</b> award at IEEE ICIP 2020, out of nearly 700 papers."
+  ],
+  [
+   "Oct 2020",
+   "Named <b>Group Technical Paper Champion</b> and received a Samsung <b>Citizen Award</b>."
+  ],
+  [
+   "Aug 2020",
+   "Samsung <b>Citizen Award</b> for contributions to Galaxy S20 first-time solutions."
+  ],
+  [
+   "2020",
+   "<b>AcED</b> (accurate, edge-consistent monocular depth estimation) accepted to ICIP 2020."
+  ],
+  [
+   "Feb 2020",
+   "Samsung <b>Citizen Award</b> for technical excellence in research to development."
+  ],
+  [
+   "2019",
+   "<b>DISCO</b> (depth inference from stereo using context) accepted to ICME 2019 as an <b>Oral</b> (top 15%)."
+  ],
+  [
+   "Jan 2019",
+   "Samsung <b>Citizen Award</b> for technical excellence in research to development."
+  ],
+  [
+   "Oct 2018",
+   "<b>Silver Award</b> at the Samsung Best Paper Awards (top 4.7% of submissions worldwide)."
+  ],
+  [
+   "Feb 2018",
+   "Became Chief Engineer / Lead Engineer, working on depth estimation for Galaxy phones."
+  ],
+  [
+   "2018",
+   "<b>CANDY</b> (conditional adversarial networks for single-image haze removal) accepted to ICPR 2018."
+  ],
+  [
+   "Oct 2017",
+   "<b>Merit Award</b> at the Samsung Best Paper Awards (top 5.3% of submissions worldwide)."
+  ],
+  [
+   "Jul 2017",
+   "Top 20% performer (12th of ~126) at the Computer Vision Summer School 2017, IIIT Hyderabad."
+  ],
+  [
+   "2017",
+   "Two papers accepted: canonical orientation detection with CNNs (ICME Workshops 2017) and specular-reflection correction for flash images (NCVPRIPG 2017)."
+  ],
+  [
+   "Dec 2016",
+   "<b>Second prize</b> in the ‘Make Time’ ideation contest for Samsung Gear smartwatches."
+  ],
+  [
+   "Jun 2016",
+   "Samsung <b>Employee of the Month</b> for research-to-development and publication efforts."
+  ],
+  [
+   "2016",
+   "Two papers accepted to <b>ICPR 2016</b>: flash-image shadow detection and glare detection in night photography."
+  ],
+  [
+   "Jul 2015",
+   "Samsung <b>Employee of the Month</b> for research-to-development and publication efforts."
+  ],
+  [
+   "2015",
+   "First conference paper accepted: flash-image shadow detection and correction at IVCNZ 2015."
+  ],
+  [
+   "Jun 2014",
+   "Joined Samsung Research India as a Software Engineer."
+  ],
+  [
+   "Dec 2013",
+   "Team qualified for the <b>ACM ICPC Kharagpur Regionals</b> (2nd in our institute, 99th overall)."
+  ],
+  [
+   "Oct 2013",
+   "<b>Runner-up</b> in Pro Coding at Aavartan, the national technical fest of NIT Raipur."
+  ],
+  [
+   "Jun 2013",
+   "Software engineering internship at Sigmoid Analytics."
+  ],
+  [
+   "Sep 2012",
+   "Won the intra-college programming contest OPC at NIT Raipur."
+  ],
+  [
+   "Dec 2010",
+   "Awarded the <b>Central Sector Scheme of Scholarship</b> for meritorious students."
   ]
  ],
  "links": {

@@ -35,7 +35,8 @@ window.SITE = {
    "extras": [
     "Winner (1st Place): ChaLearn UDIVA-HHOI Challenge (Track 5: Multimodal Exocentric Causal Event Grounding), CONTEXTUS Workshop",
     "Best Paper Award - Challenge Track"
-   ]
+   ],
+   "project": "projects/cues/"
   },
   {
    "id": "C.16",

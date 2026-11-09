@@ -29,6 +29,8 @@
     <a href="#about">About</a>
     <a href="#experience">Experience</a>
     <a href="#publications">Publications</a>
+    <a href="#patents">Patents</a>
+    <a href="#honors">Honors</a>
     <a href="#news">News</a>
     <a href="#contact">Contact</a>
   </nav>
@@ -48,9 +50,9 @@
         <a class="btn" href="#contact">Get in touch</a>
       </div>
       <ul class="stats" aria-label="Highlights">
+        <li><b>20</b><span>research papers</span></li>
         <li><b>1st</b><span>ECCV 2026 workshop challenge</span></li>
         <li><b>IROS '25</b><span>Best Paper finalist</span></li>
-        <li><b>2×</b><span>CVPR Outstanding Reviewer</span></li>
         <li><b>7</b><span>patents, 4 granted</span></li>
       </ul>
     </div>
@@ -74,8 +76,6 @@
         <ol class="timeline" id="education"></ol>
       </div>
     </div>
-    <h3 class="gap">Selected honors</h3>
-    <ul class="honors" id="honors"></ul>
     <h3 class="gap">Service &amp; outreach</h3>
     <dl class="skills" id="service"></dl>
   </section>
@@ -87,21 +87,29 @@
 
   <section id="publications" class="reveal">
     <h2><span class="num">03</span> Publications</h2>
-    <div class="tabs" role="tablist" aria-label="Publications or patents">
-      <button role="tab" aria-selected="true" data-tab="papers">Papers <i id="paperCount"></i></button>
-      <button role="tab" aria-selected="false" data-tab="patents">Patents <i id="patentCount"></i></button>
-    </div>
-    <p class="note">Full list on <a id="scholarLink" href="#" rel="noopener">Google Scholar</a>. Authors in order as published; I'm highlighted.</p>
+    <p class="note"><span id="paperCount"></span> papers. Also on <a id="scholarLink" href="#" rel="noopener">Google Scholar</a>.</p>
     <div id="pubList"></div>
   </section>
 
+  <section id="patents" class="reveal">
+    <h2><span class="num">04</span> Patents</h2>
+    <p class="note"><span id="patentCount"></span> patents, 4 granted.</p>
+    <div id="patentList"></div>
+  </section>
+
+  <section id="honors" class="reveal">
+    <h2><span class="num">05</span> Honors &amp; Awards</h2>
+    <div id="honorList"></div>
+    <button class="btn" id="honorMore" type="button"></button>
+  </section>
+
   <section id="news" class="reveal">
-    <h2><span class="num">04</span> News</h2>
+    <h2><span class="num">06</span> News</h2>
     <ul class="news" id="newsList"></ul>
   </section>
 
   <section id="contact" class="reveal">
-    <h2><span class="num">05</span> Contact</h2>
+    <h2><span class="num">07</span> Contact</h2>
     <div class="contact-card">
       <p class="big">Interested in collaborating, or want to talk about generative vision research? I'd love to hear from you.</p>
       <div class="cta">

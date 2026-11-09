@@ -355,56 +355,273 @@ window.SITE = {
   }
  ],
  "honors": [
-  [
-   "2026",
-   "Winner, ECCV 2026 CONTEXTUS Workshop Challenge",
-   "ChaLearn UDIVA-HHOI, Track 5: Multimodal Exocentric Causal Event Grounding"
-  ],
-  [
-   "2026",
-   "Samsung Influential Paper & Eminent Author Awards",
-   "Recognizing high-impact, high-volume first-author research"
-  ],
-  [
-   "2026",
-   "Samsung Excellence Award",
-   "Best Visual Experience on the Galaxy S26 camera via generative inpainting and image editing"
-  ],
-  [
-   "2025",
-   "IROS 2025 Best Paper Award Finalist",
-   "DiFuse-Net: RGB and Dual-Pixel depth estimation"
-  ],
-  [
-   "2025",
-   "CVPR Outstanding Reviewer",
-   "Also in 2023"
-  ],
-  [
-   "2024",
-   "New Valley Project of the Year (R&D), Galaxy S24",
-   "Galaxy AI generative features"
-  ],
-  [
-   "2023",
-   "3rd place, CVPR 2023 MIPI RGB+ToF Depth Completion Challenge",
-   ""
-  ],
-  [
-   "2020",
-   "Top-3 Most Viewed Paper, IEEE ICIP 2020",
-   "AcED, out of ~700 papers"
-  ],
-  [
-   "2018",
-   "Silver Award, Samsung Best Paper Awards",
-   "Top 4.7% of submissions worldwide"
-  ],
-  [
-   "2013",
-   "ACM ICPC Kharagpur Regionals qualifier",
-   "99th overall"
-  ]
+  {
+   "title": "Winner (1st Place) in ECCV 2026 CONTEXTUS Workshop Challenge",
+   "org": "European Conference on Computer Vision (ECCV) 2026",
+   "date": "Aug 2026",
+   "text": [
+    "Secured 1st rank (Winning Solution) in the ChaLearn UDIVA-HHOI Challenge (Track 5: Multimodal Exocentric Causal Event Grounding) at the ECCV 2026 CONTEXTUS Workshop."
+   ]
+  },
+  {
+   "title": "Influential Paper Award",
+   "org": "Samsung R&D Institute India Bangalore",
+   "date": "Feb 2026",
+   "text": [
+    "Recognized during the Samsung Annual Day ceremony for authoring high-impact research published within the last two years that secured major conference honors and significant citation growth."
+   ]
+  },
+  {
+   "title": "Eminent Author Award",
+   "org": "Samsung R&D Institute India Bangalore",
+   "date": "Feb 2026",
+   "text": [
+    "Honored at the Samsung Annual Day for research excellence and high productivity, specifically for maintaining a superior volume of first-author publications in premier AI and Computer Vision venues."
+   ]
+  },
+  {
+   "title": "Samsung Excellence Award - Team Awesome",
+   "org": "Samsung R&D Institute India Bangalore",
+   "date": "Jan 2026",
+   "text": [
+    "Recognized for delivering the \"Best Visual Experience\" on the Galaxy S26 Camera flagship through the development of Generative AI solutions, including mask-guided generative inpainting and instruction-based image editing."
+   ]
+  },
+  {
+   "title": "IEEE/RSJ IROS 2025 Best Paper Award Finalist",
+   "org": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025",
+   "date": "Oct 2025",
+   "text": [
+    "Our paper, \"DiFuse-Net: RGB and Dual-Pixel Depth Estimation using Window Bi-directional Parallax Attention and Cross-modal Transfer Learning\", was one of the Best Paper Award Finalist at the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025."
+   ]
+  },
+  {
+   "title": "Samsung Excellence Award - Super Tech",
+   "org": "Samsung R&D Institute India Bangalore",
+   "date": "Oct 2025",
+   "text": [
+    "Awarded the \"Super Tech\" honor for research excellence in the organization, specifically for securing the Best Paper Award in Q3 2025."
+   ]
+  },
+  {
+   "title": "CVPR 2025 Outstanding Reviewer Award",
+   "org": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025",
+   "date": "May 2025",
+   "text": [
+    "I received \"CVPR 2025 Outstanding Reviewer\" award. CVPR is the world's best Computer Vision conference, #1 publication (h5-index) in Engineer & Computer Science, #4 publication (h5-index) among all scientific fields."
+   ]
+  },
+  {
+   "title": "Mobile Developer Conference (MDC) 2024 Best Project Award",
+   "org": "Technology Strategy Team, Samsung Electronics",
+   "date": "Jan 2025",
+   "text": [
+    "Best Project Award for \"High Quality High Resolution Dense Depth Generation\" project."
+   ]
+  },
+  {
+   "title": "New Valley Project of the Year (R&D) - S24 Project",
+   "org": "Samsung R&D Institute India Bangalore",
+   "date": "Feb 2024",
+   "text": [
+    "Honored for pioneering development of world-class Galaxy AI features for the S24 series, delivering high-impact generative solutions that directly enhanced the daily user experience for millions of consumers."
+   ]
+  },
+  {
+   "title": "Samsung Excellence Award - Team Awesome",
+   "org": "Samsung R&D Institute India Bangalore",
+   "date": "Oct 2023",
+   "text": [
+    "\"Team Awesome\" award for focused and dedicated efforts towards quickly developing and showcasing Visual Generative AI solution demos."
+   ]
+  },
+  {
+   "title": "CVPR 2023 Outstanding Reviewer Award",
+   "org": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023",
+   "date": "Jun 2023",
+   "text": [
+    "I received \"CVPR 2023 Outstanding Reviewer\" award. CVPR is the world's best Computer Vision conference, #1 publication (h5-index) in Engineer & Computer Science, #4 publication (h5-index) among all scientific fields."
+   ]
+  },
+  {
+   "title": "Samsung Excellence Award - Super Tech Award",
+   "org": "Samsung R&D Institute India Bangalore",
+   "date": "Apr 2023",
+   "text": [
+    "\"Super Tech\" award for leading a 3 member team that secured 3rd rank in the Mobile Intelligent Photography and Imaging (MIPI) Workshop’s Depth Completion challenge in CVPR 2023."
+   ]
+  },
+  {
+   "title": "3rd Place Award in CVPR 2023 MIPI Workshop RGB+ToF Depth Completion Challenge",
+   "org": "IEEE/CVF CVPR 2023 Mobile Intelligent Photography and Imaging (MIPI) Workshop",
+   "date": "Mar 2023",
+   "text": [
+    "Our team secured 3rd rank in the Mobile Intelligent Photography and Imaging (MIPI) Workshop’s Depth Completion challenge in CVPR 2023."
+   ]
+  },
+  {
+   "title": "New Valley Project of the Year (R&D) - S23 Project",
+   "org": "Samsung R&D Institute India Bangalore",
+   "date": "Mar 2023",
+   "text": [
+    "New Valley Project of the Year (R&D) - S23 Project. Received this award for contributions to Depth Estimation solution that enables high quality Portrait mode in Samsung Galaxy S23 series smartphones."
+   ]
+  },
+  {
+   "title": "Best Project Award",
+   "org": "Samsung R&D Institute India Bangalore",
+   "date": "Dec 2022",
+   "text": [
+    "Best project award for \"Dual-Pixel based Depth Estimation\" solution contribution to Selfie Portrait mode feature in Samsung Galaxy S24 smartphone."
+   ]
+  },
+  {
+   "title": "Samsung Excellence Award",
+   "org": "Samsung R&D Institute India Bangalore",
+   "date": "Oct 2022",
+   "text": [
+    "Award for technical excellence in research to development for the project \"Dual-Pixel based Depth Estimation\"."
+   ]
+  },
+  {
+   "title": "Best Project Award",
+   "org": "Samsung R&D Institute India Bangalore",
+   "date": "Sep 2021",
+   "text": [
+    "Best project award for \"depth estimation\" solution contribution to Selfie Portrait mode feature in Samsung smartphones."
+   ]
+  },
+  {
+   "title": "\"Top 3 Most Viewed Paper\" Award at IEEE ICIP 2020",
+   "org": "IEEE International Conference on Image Processing (ICIP) 2020",
+   "date": "Nov 2020",
+   "text": [
+    "My first author paper titled \"AcED: Accurate and Edge-consistent Monocular Depth Estimation\" received the \"Top 3 Most Viewed Paper\" award out of nearly 700 papers presented at the 27th IEEE International Conference on Image Processing (ICIP) 2020."
+   ]
+  },
+  {
+   "title": "Group Technical Paper Champion",
+   "org": "Samsung R&D Institute India Bangalore",
+   "date": "Oct 2020",
+   "text": [
+    "Recognized as \"Technical Paper Champion\" for driving paper writing and submission activities at Vision Research Group, Samsung Research India Bangalore."
+   ]
+  },
+  {
+   "title": "Samsung Citizen Award",
+   "org": "Samsung R&D Institute India Bangalore",
+   "date": "Oct 2020",
+   "text": [
+    "Award for contribution and excellence in work, extraordinary commitment, leveraging and development of talent, extension of support and achievements beyond functional scope and process improvement."
+   ]
+  },
+  {
+   "title": "Samsung Citizen Award",
+   "org": "Samsung R&D Institute India Bangalore",
+   "date": "Aug 2020",
+   "text": [
+    "Excellence award conferred to a group of people for their contributions to \"Galaxy S20 First Time Solutions\"."
+   ]
+  },
+  {
+   "title": "Samsung Citizen Award",
+   "org": "Samsung R&D Institute India Bangalore",
+   "date": "Feb 2020",
+   "text": [
+    "Award for technical excellence in research to development."
+   ]
+  },
+  {
+   "title": "Samsung Citizen Award",
+   "org": "Samsung R&D Institute India Bangalore",
+   "date": "Jan 2019",
+   "text": [
+    "Award for technical excellence in research to development."
+   ]
+  },
+  {
+   "title": "Silver Award in prestigious Samsung Best Paper Award (SBPA) Contest 2018",
+   "org": "Samsung Research",
+   "date": "Oct 2018",
+   "text": [
+    "Silver Award in the annual Samsung Best Paper Award (SBPA) contest. Samsung researchers across the globe compete in this contest and winners are selected after a very high-quality review which is on par with Tier-1 external conferences.",
+    "Only ~4.7% papers were awarded out of all the research papers submitted by Samsung researchers across the globe."
+   ]
+  },
+  {
+   "title": "Merit Award in prestigious Samsung Best Paper Award (SBPA) Contest 2017",
+   "org": "Samsung Research",
+   "date": "Oct 2017",
+   "text": [
+    "Merit Award in the annual Samsung Best Paper Award (SBPA) contest. Samsung researchers across the globe compete in this contest and winners are selected after a very high-quality review which is on par with Tier-1 external conferences.",
+    "Only ~5.3% papers were awarded out of all the research papers submitted by Samsung researchers across the globe."
+   ]
+  },
+  {
+   "title": "Top 20% performer (12th out of ~126) in Computer Vision Summer School 2017 at IIIT Hyderabad",
+   "org": "Centre for Visual Information Technology (CVIT), IIIT Hyderabad",
+   "date": "Jul 2017",
+   "text": [
+    "Awarded INR 5000 cash award for being top-20% performer (12th rank out of 126) in Computer Vision Summer School 2017 at IIIT Hyderabad. The attendees were mostly PhD and MS graduates / students along with some industry experts."
+   ]
+  },
+  {
+   "title": "Second prize in the 'Make Time' Ideation Contest Organized by Samsung India Electronics",
+   "org": "Samsung India Electronics Pvt. Ltd. (SIEL)",
+   "date": "Dec 2016",
+   "text": [
+    "'Make Time' was an ideation contest organized by Samsung India Electronics Pvt Ltd for Samsung Gear smartwatches. The award was given by HyunChil Hong (President and CEO- Samsung South West Asia Regional Head Quarter)."
+   ]
+  },
+  {
+   "title": "Employee of the Month",
+   "org": "Samsung R&D Institute India Bangalore",
+   "date": "Jun 2016",
+   "text": [
+    "Award for excellent efforts in research to development and publication."
+   ]
+  },
+  {
+   "title": "Employee of the Month",
+   "org": "Samsung R&D Institute India Bangalore",
+   "date": "Jul 2015",
+   "text": [
+    "Award for excellent efforts in research to development and publication."
+   ]
+  },
+  {
+   "title": "ACM ICPC Kharagpur Regionals Qualifier",
+   "org": "Association for Computing Machinery (ACM)",
+   "date": "Dec 2013",
+   "text": [
+    "The ICPC, entitled the ACM International Collegiate Programming Contest, is considered as the \"Olympics of Programming Competitions\". It is the oldest, largest, and most prestigious programming contest in the world.",
+    "Our team secured 2nd rank in our institute and 99 rank overall to get selected for ACM ICPC Regionals at IIT Kharagpur."
+   ]
+  },
+  {
+   "title": "Runner-up in Pro Coding",
+   "org": "Technocracy - The Technical Committee of NIT Raipur",
+   "date": "Oct 2013",
+   "text": [
+    "Secured 2nd position in Pro Coding, programming competition in Aavartan - National Technical fest of NIT Raipur"
+   ]
+  },
+  {
+   "title": "Winner of Intra College Programming Contest - OPC",
+   "org": "Technocracy - The Technical Committee of NIT Raipur",
+   "date": "Sep 2012",
+   "text": [
+    "Winner of intra-college programming contest OPC, organized by Technocracy - the Technical Committee of NIT Raipur."
+   ]
+  },
+  {
+   "title": "Recipient of Central Sector Scheme of Scholarship",
+   "org": "Ministry of Human Resource Development (MHRD)",
+   "date": "Dec 2010",
+   "text": [
+    "A scholarship by central government awarded to selected meritorious students of CBSE and various state academic boards based on their performance in class XII board exams to pursue undergraduate studies."
+   ]
+  }
  ],
  "service": [
   [
@@ -422,7 +639,7 @@ window.SITE = {
    "Our CUES paper won <b>1st place</b> in the ECCV 2026 CONTEXTUS Workshop challenge (ChaLearn UDIVA-HHOI, Track 5) and the <b>Best Paper Award, Challenge Track</b>."
   ],
   [
-   "2026",
+   "Jul 2026",
    "<b>Insert In Style</b> accepted to ACM Multimedia 2026 as an <b>Oral</b>."
   ],
   [
@@ -434,7 +651,7 @@ window.SITE = {
    "Received the <b>Influential Paper</b> and <b>Eminent Author</b> awards at Samsung Annual Day."
   ],
   [
-   "2026",
+   "Jan 2026",
    "Two papers accepted to <b>ICASSP 2026</b>: Freq-DP Net and AbracADDbra."
   ],
   [
@@ -446,7 +663,7 @@ window.SITE = {
    "Received the <b>CVPR 2025 Outstanding Reviewer</b> award."
   ],
   [
-   "2025",
+   "Dec 2024",
    "PromptArtisan accepted to <b>ICASSP 2025</b>."
   ]
  ],
@@ -454,7 +671,8 @@ window.SITE = {
   "scholar": "https://scholar.google.com/citations?hl=en&user=hwtMUd0AAAAJ&view_op=list_works&sortby=pubdate",
   "github": "https://github.com/stalin18",
   "linkedin": "https://www.linkedin.com/in/kunalswami/",
-  "x": "https://twitter.com/kunalswami189"
+  "x": "https://twitter.com/kunalswami189",
+  "orcid": "https://orcid.org/0000-0002-6711-004X"
  },
  "emailB64": "a3VuYWxzd2FtaTlAZ21haWwuY29t"
 };

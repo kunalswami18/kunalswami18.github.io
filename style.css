@@ -130,7 +130,7 @@ h3.gap { margin-top: 56px; }
 .role li b { color: var(--text); }
 
 /* publications */
-.tabs { display: inline-flex; gap: 4px; padding: 4px; background: var(--surface); border: 1px solid var(--line); border-radius: 999px; margin-bottom: 16px; }
+.tabs-unused { display: inline-flex; gap: 4px; padding: 4px; background: var(--surface); border: 1px solid var(--line); border-radius: 999px; margin-bottom: 16px; }
 .tabs button { font: inherit; font-weight: 600; font-size: 15px; color: var(--muted); background: none; border: 0; padding: 8px 18px; border-radius: 999px; cursor: pointer; }
 .tabs button i { font-style: normal; opacity: .7; margin-left: 4px; font-weight: 500; }
 .tabs button[aria-selected="true"] { background: var(--grad); color: var(--on-accent); }
@@ -197,3 +197,12 @@ footer p { margin: 0; }
   .blob, .portrait::before, .portrait img { animation: none; }
   .js .reveal { opacity: 1; transform: none; transition: none; }
 }
+
+/* honors */
+.honor { display: grid; grid-template-columns: 56px 1fr; gap: 14px; padding: 16px 0; border-bottom: 1px solid var(--line); }
+.honor .hd { font-family: var(--mono); font-size: 13px; color: var(--muted); padding-top: 4px; }
+.honor .t { font-size: 17px; font-weight: 650; line-height: 1.35; }
+.honor .ve { font-size: 14.5px; font-style: italic; color: var(--muted); margin-top: 2px; }
+.honor p { margin: 6px 0 0; font-size: 15px; color: var(--muted); line-height: 1.55; }
+#honorMore { margin-top: 28px; }
+@media (max-width: 560px) { .honor { grid-template-columns: 1fr; gap: 2px; } }

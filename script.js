@@ -37,7 +37,14 @@
   // ---- Publications ----
   function authors(a) { return esc(a).replace(/Kunal Swami/g, '<b>Kunal Swami</b>'); }
   function venueYear(v) { var m = v.match(/(20\d\d)/); return m ? m[1] : 'Other'; }
-  function badge(x) { return '<span class="badge' + (/winner|best paper|oral/i.test(x) ? ' gold' : '') + '">' + esc(x) + '</span>'; }
+  var ICON = {
+    trophy: '<svg viewBox="0 0 24 24" width="13" height="13" fill="currentColor" aria-hidden="true"><path d="M7 3h10v2h3v3a4 4 0 0 1-4 4h-.3A5 5 0 0 1 13 14.9V17h3v2H8v-2h3v-2.1A5 5 0 0 1 8.3 12H8a4 4 0 0 1-4-4V5h3V3Zm-1 4v1a2 2 0 0 0 2 2V7H6Zm12 0h-2v3a2 2 0 0 0 2-2V7Z"/></svg>',
+    star: '<svg viewBox="0 0 24 24" width="13" height="13" fill="currentColor" aria-hidden="true"><path d="m12 2 3 6.6 7.2.8-5.4 4.9 1.5 7.1L12 17.7 5.7 21.4l1.5-7.1L1.8 9.4 9 8.6 12 2Z"/></svg>'
+  };
+  function badge(x) {
+    var star = /\boral\b/i.test(x);
+    return '<span class="badge' + (star ? '' : ' gold') + '">' + (star ? ICON.star : ICON.trophy) + esc(x) + '</span>';
+  }
   function renderPubs(list, byYear) {
     var out = '', last = null;
     list.forEach(function (p) {
@@ -79,7 +86,13 @@
   });
 
   // ---- News ----
-  $('newsList').innerHTML = S.news.map(function (n) { return '<li><time>' + esc(n[0]) + '</time><span>' + n[1] + '</span></li>'; }).join('');
+  var NSHOW = 6, nOpen = false;
+  function renderNews() {
+    $('newsList').innerHTML = S.news.slice(0, nOpen ? S.news.length : NSHOW).map(function (n) { return '<li><time>' + esc(n[0]) + '</time><span>' + n[1] + '</span></li>'; }).join('');
+    $('newsMore').textContent = nOpen ? 'Show fewer' : 'Show all ' + S.news.length + ' updates';
+  }
+  renderNews();
+  $('newsMore').addEventListener('click', function () { nOpen = !nOpen; renderNews(); if (!nOpen) $('news').scrollIntoView(); });
 
   // ---- Contact ----
   var icons = {

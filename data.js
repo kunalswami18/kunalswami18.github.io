@@ -234,15 +234,7 @@ window.SITE = {
  ],
  "education": [
   {
-   "school": "Indian Institute of Technology Kharagpur",
-   "deg": "PhD, Computer Science & Engineering",
-   "lines": [
-    "Thesis: Efficient Video Understanding for Streaming and Long-Form Videos",
-    "Advisor: Prof. Abir Das"
-   ]
-  },
-  {
-   "school": "Indian Institute of Science, Bengaluru",
+   "school": "Indian Institute of Science",
    "deg": "M.Tech, Artificial Intelligence",
    "lines": [
     "Project: Leveraging Dual-Pixel Images for Image Restoration and Obstruction Removal",
@@ -274,7 +266,7 @@ window.SITE = {
  ],
  "experience": [
   {
-   "org": "Samsung R&D Institute India, Bangalore",
+   "org": "Samsung R&D Institute India Bangalore",
    "url": "https://research.samsung.com/sri-b",
    "roles": [
     {
@@ -635,6 +627,10 @@ window.SITE = {
  ],
  "news": [
   [
+   "Oct 2026",
+   "Two papers accepted to <b>ICVGIP 2026</b>: ADDvisor and StyleJudge."
+  ],
+  [
    "Aug 2026",
    "Our CUES paper won <b>1st place</b> in the ECCV 2026 CONTEXTUS Workshop challenge (ChaLearn UDIVA-HHOI, Track 5) and the <b>Best Paper Award, Challenge Track</b>."
   ],
@@ -643,12 +639,12 @@ window.SITE = {
    "<b>Insert In Style</b> accepted to ACM Multimedia 2026 as an <b>Oral</b>."
   ],
   [
-   "2026",
-   "Two papers accepted to <b>ICVGIP 2026</b>: ADDvisor and StyleJudge."
-  ],
-  [
    "Feb 2026",
    "Received the <b>Influential Paper</b> and <b>Eminent Author</b> awards at Samsung Annual Day."
+  ],
+  [
+   "Jan 2026",
+   "Samsung Excellence Award (Team Awesome) for the <b>Best Visual Experience</b> on the Galaxy S26 camera, through generative inpainting and image editing."
   ],
   [
    "Jan 2026",
@@ -659,12 +655,60 @@ window.SITE = {
    "DiFuse-Net named an <b>IROS 2025 Best Paper Award Finalist</b>."
   ],
   [
+   "Oct 2025",
+   "Received the Samsung <b>Super Tech</b> award for research excellence."
+  ],
+  [
+   "Jun 2025",
+   "DiFuse-Net accepted to <b>IROS 2025</b>."
+  ],
+  [
    "May 2025",
    "Received the <b>CVPR 2025 Outstanding Reviewer</b> award."
   ],
   [
+   "Jan 2025",
+   "Mobile Developer Conference 2024 <b>Best Project Award</b> for the High Quality High Resolution Dense Depth Generation project."
+  ],
+  [
    "Dec 2024",
    "PromptArtisan accepted to <b>ICASSP 2025</b>."
+  ],
+  [
+   "Oct 2024",
+   "Indian patent granted: Continuous Adaptive Orientation in Smartwatches with Circular Display."
+  ],
+  [
+   "Apr 2024",
+   "Indian patent granted for attribute-specific joint learning (also granted by the USPTO in Oct 2023)."
+  ],
+  [
+   "Feb 2024",
+   "<b>New Valley Project of the Year (R&D)</b> for Galaxy AI features in the S24 series. Indian patent granted: Glare Detection in Night Photography."
+  ],
+  [
+   "Dec 2023",
+   "Indian patent granted: Flash Image Shadow Detection and Patch-based Correction of Shadow Regions."
+  ],
+  [
+   "Oct 2023",
+   "US patent granted (US11790228B2). Received the Samsung <b>Team Awesome</b> award for Visual Generative AI demos."
+  ],
+  [
+   "2023",
+   "<b>Adjust Your Focus</b> accepted to CVIP 2023."
+  ],
+  [
+   "Jun 2023",
+   "Received the <b>CVPR 2023 Outstanding Reviewer</b> award."
+  ],
+  [
+   "Apr 2023",
+   "Samsung <b>Super Tech</b> award for leading the team that placed 3rd in the CVPR 2023 MIPI depth completion challenge."
+  ],
+  [
+   "Mar 2023",
+   "<b>3rd place</b> in the CVPR 2023 MIPI Workshop RGB+ToF Depth Completion Challenge. Won <b>New Valley Project of the Year (R&D)</b> for the Galaxy S23 Portrait mode depth solution."
   ]
  ],
  "links": {

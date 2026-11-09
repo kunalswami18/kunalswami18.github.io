@@ -53,6 +53,7 @@
       var title = p.url ? '<a class="t" href="' + esc(p.url) + '" rel="noopener">' + esc(p.title) + '</a>' : '<span class="t">' + esc(p.title) + '</span>';
       out += '<article class="pub"><div class="id">' + esc(p.id) + '</div><div>' + title +
         '<div class="au">' + authors(p.authors) + '</div><div class="ve">' + esc(p.venue) + '</div>' +
+        (p.project ? '<div class="plinks"><a href="' + esc(p.project) + '"' + (/^http/.test(p.project) ? ' rel="noopener"' : '') + '>Project page →</a></div>' : '') +
         (p.extras.length ? '<div class="badges">' + p.extras.map(badge).join('') + '</div>' : '') + '</div></article>';
     });
     return out;

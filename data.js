@@ -45,7 +45,8 @@ window.SITE = {
    "venue": "ACM International Conference on Multimedia (ACMMM) 2026",
    "extras": [
     "Oral"
-   ]
+   ],
+   "project": "https://rchittersu.github.io/IIS/"
   },
   {
    "id": "C.15",
@@ -71,7 +72,8 @@ window.SITE = {
    "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025",
    "extras": [
     "Best Paper Award Finalist"
-   ]
+   ],
+   "project": "projects/difuse-net/"
   },
   {
    "id": "C.12",
@@ -79,7 +81,8 @@ window.SITE = {
    "title": "PromptArtisan: Multi-instruction Image Editing in Single Pass with Complete Attention Control",
    "url": "https://arxiv.org/abs/2502.10258",
    "venue": "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2025",
-   "extras": []
+   "extras": [],
+   "project": "projects/promptartisan/"
   },
   {
    "id": "C.11",
